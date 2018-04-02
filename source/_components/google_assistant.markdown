@@ -151,7 +151,7 @@ If you're not using Linux, you can use sites such as [this one](https://www.brow
 	a. Go to the developer console using the address from point 4.
 	b. Under the gear icon, click `Permissions`
 	c. Click `Add`, type the new user's e-mail address and choose `Project -> Editor` role
-	d. Have the new user go to [developer console](https://console.actions.google.com/) and repeat steps starting from point 
+	d. Have the new user go to [developer console](https://console.actions.google.com/) and repeat steps starting from point 4
 9. If you want to use the `google_assistant.request_sync` service, to update devices without unlinking and relinking, in Home Assistant, then enable Homegraph API for your project:
 	a. Go to the [cloud console](https://console.cloud.google.com/apis/api/homegraph.googleapis.com/overview)
 	b. Select your project and click Enable Homegraph API
